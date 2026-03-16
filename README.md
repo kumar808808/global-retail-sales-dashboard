@@ -68,8 +68,6 @@ Segment
 Year
 Dashboard Preview
 
-Example:
-
 ![Dashboard Preview](Global retail sales analysis/images/dashboard_preview.png)
 
 
