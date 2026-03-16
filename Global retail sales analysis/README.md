@@ -70,7 +70,7 @@ Dashboard Preview
 
 Example:
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/dashboard_preview.png)
 
 
 Skills Demonstrated
