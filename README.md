@@ -70,7 +70,7 @@ Dashboard Preview
 
 Example:
 
-![Dashboard Preview](Global retail sales analysis/image/dashboard_preview.png)
+![Dashboard Preview](image/dashboard_preview.png)
 
 
 Skills Demonstrated
