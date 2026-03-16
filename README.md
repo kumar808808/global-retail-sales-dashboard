@@ -68,7 +68,8 @@ Segment
 Year
 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+
+![Dashboard Preview](Global retail sales analysis/images/dashboard_preview.png)
 
 
 Skills Demonstrated
