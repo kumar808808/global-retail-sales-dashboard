@@ -69,7 +69,7 @@ Year
 Dashboard Preview
 
 
-![Dashboard Preview](Global retail sales analysis/image/dashboard_preview.png)
+![Dashboard Preview](Global%20retail%20sales%20analysis/image/dashboard_preview.png)
 
 
 Skills Demonstrated
